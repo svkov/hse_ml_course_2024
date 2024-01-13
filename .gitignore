@@ -1,0 +1,8 @@
+*
+!.gitignore
+!*/.gitignore
+!images
+!lesson_*
+!*.pptx
+!*.md
+!environment.yml

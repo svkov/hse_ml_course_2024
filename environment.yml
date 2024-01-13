@@ -1,0 +1,21 @@
+# Название окружения
+name: classical-ml
+channels:
+  # Репозитории, из которых будут подтягиваться пакеты
+  - conda-forge
+  - anaconda
+dependencies:
+  # Используемые пакеты
+  - numpy
+  - pandas
+  - matplotlib
+  - plotly
+  - seaborn
+  - scikit-learn
+  - scipy
+  - seaborn
+  - statsmodels
+  - nltk
+  - gensim
+  - jupyter
+  - jupyterlab
