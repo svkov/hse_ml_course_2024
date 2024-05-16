@@ -1,5 +1,6 @@
+!chats
+!chats/*.json
 !*.csv
 !*.xlsx
 !*.gz
-!*.zip
 !*.txt
